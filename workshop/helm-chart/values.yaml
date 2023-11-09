@@ -177,7 +177,7 @@ catalog:
   affinity: {}
 
 frontend:
-  replicaCount: 1
+  replicaCount: 2
   namespace: workshop
   name: frontend
   lbType: alb
